@@ -77,3 +77,8 @@ font-size: 12px;
  .descricao__texto{
     color: var(--cinza-secundario);
  }
+
+ secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+ }
